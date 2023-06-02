@@ -117,9 +117,6 @@ body{
     margin-left: 100px;
 }
 
-.section-monohrome .container{
-    margin-right: 0px;
-}
 
 .section-monohrome .blocks .block:first-child p{
     font-size: 148px;
